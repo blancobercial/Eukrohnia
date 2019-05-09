@@ -52,3 +52,9 @@ done
 sed -i '1d' *.structure
 
 echo "done removing first lines"
+
+##After this: Structure does not parallel taks, so it should be run "parallelized by hand". For example
+    #for f in Euk*.structure; do 
+    #structure -m mainparams -e extraparams -i $f -K 8 -o $f.8.out
+    #done
+#that would run all structure files one after each other at K=8. You can set one run for each K level. It will take a while, so you might want to make groups of structure files. I suppose there is a way to make this more efficient - please let me know if you know how to do it! 
