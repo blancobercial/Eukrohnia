@@ -8,6 +8,8 @@
 #THe pairwise fst for all iterations are going to go to the general outfile created for the whole run, indicated above as process number.
 #They are easily selected in excel with regular searches. Then all structure files are renamed into something more manageable, 
 #and the fist line added by stacks removed so they are ready for structure runs. 
+#Please cite the original paper!!
+#If you find any problem with the script, please contact Leocadio Blanco Bercial (Leocadio_blanco@hotmail.com)
 
 
 ##########################
