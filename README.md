@@ -1,11 +1,11 @@
 # Eukrohnia
-Scripts for ddRAD processing from the manuscript Pathways of Pelagic Connectivity: <i>Eukrohnia hamata</i> (Chaetognatha) in the Arctic Ocean
+Scripts for ddRAD processing from the manuscript Pathways of Pelagic Connectivity: *Eukrohnia hamata* (Chaetognatha) in the Arctic Ocean
 
 Haley M. DeHart, Leocadio Blanco-Bercial, Mollie Passacantando, Jennifer M. Questel, and Ann Bucklin.
 
 Please cite the manuscript if using these tools!
 
-<u>Scripts included in this repositorty</u>:
+**Scripts included in this repositorty**
 
 Demult_dedup.sh contains the settings used for deduplicate the files and removal of PCR duplicates follwoing Schweyen et al. 2014.
 
