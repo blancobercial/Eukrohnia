@@ -1,4 +1,4 @@
-###Script to test n once you have chosen M. Creates the outfiles directory and run the populations with the chosen M and n 
+###Script to test n once you have chosen M. Creates the outfiles directory and run the populations with the chosen M and n
 ######################
 #echo doing ustacks
 ######################
