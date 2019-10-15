@@ -1,4 +1,4 @@
-##Script to test M from 0 to 6. Creates the outfiles directory and run the populations with the chosen M
+##Script to test M from 0 to 6. Creates the outfiles directory and run the populations with the chosen M 
 ######################
 #echo doing ustacks
 ######################
